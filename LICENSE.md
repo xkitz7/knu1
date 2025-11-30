@@ -1,4 +1,4 @@
-   ZEXIMI LICENSE
+###   ZEXIMI LICENSE
 
 Version 2, 30 November 2025
 
